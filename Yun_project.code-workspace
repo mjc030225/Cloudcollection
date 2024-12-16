@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Yun_project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.embeddedhtml": "html",
+			"includes.h": "c",
+			"wio.h": "c",
+			"wusart.h": "c",
+			"ticktask.h": "c"
+		}
+	}
+}
