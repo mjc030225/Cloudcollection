@@ -1,0 +1,12 @@
+{
+    "cmake.sourceDirectory": "/Users/majiancong/STM32Cube/Yun_project",
+    "cortex-debug.variableUseNaturalFormat": true,
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "misc.h": "c",
+        "stm32f4xx.h": "c",
+        "stm32f4xx_sdio.h": "c",
+        "stm32f4xx_rcc.h": "c",
+        "stm32f4xx_dma.h": "c"
+    }
+}
