@@ -1,8 +1,0 @@
-./build/
-./cmake/
-./CMakeFiles/
-.ninja_deps
-.ninja_log
-build.ninja
-cmake_install.cmake
-./vscode/
